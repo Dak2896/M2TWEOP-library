@@ -15,7 +15,7 @@ namespace campaignEnums
 		peace = 2,
 		alliance = 3,
 		suzerain = 4,
-		trade = 6
+		trade = 5
 	};
 
 	enum dipStateInternalEnum :int
